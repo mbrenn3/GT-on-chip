@@ -1,5 +1,5 @@
 #Cell-Cell attack and Gene Transfer
-##Effects of CSP, cell density and cold storage
+##Effects of CSP and cell density
 
 ###May 9 2016
 
