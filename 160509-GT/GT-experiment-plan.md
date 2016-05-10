@@ -23,6 +23,7 @@ Expect CP2215 to grow faster, may need to hold at room temp to let CP2204 catch 
 5. Spin down tubes at 8kg for 8 min in chilled centrifuge, resuspend each in 1 mL chilled CDM, by vortexing for 2 x 20 seconds.
 6. Combine tubes to make 2 mL cell mix, hold at 0C.
 7. Transfer required amounts of cell mix and media with or without CSP to reaction tubes. (1 mL cryovials)
+
 8. Place reaction tubes in heater block at 37C for 30 min.
 9. Dilute 0.2 mL from each reaction tube in 2 mL CAT. Hold at 37C for 60 min.
 10. Dilute for plating according to scheme
