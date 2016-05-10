@@ -27,7 +27,7 @@ Grow to OD = 0.1 chill to 0C for use.
 | 4/19/2016 15:30:00 |        | 0.27   | 0.17   | 0.78   |        | 0.4    |
 | 4/19/2016 16:06:00 |        | 0.41   | 0.24   | 1      |        | 0.58   |
 
-![image](growth-curves.png =600x)
+<img src="growth-curves.png" width="600" />
 
 ###Drug assay Preperation
 | Drug | Overlay  | Stock    | ___x  | Vol/30ml | Vol/co? vol |
@@ -59,4 +59,3 @@ CDM 0C => 5mL + 50 mg/ml BSA + .5 mM(?) CaCL
 CDM + 500 ng/mL CSP => 3ml = 6 ul CSP @ 250 mg/mL + CaCl .5mg 1%
 10 ml CDM + BSA 25 ul 2% + 50 ul CaCl
 => 5 ml + CSP (10 ul 250 mg/)
-

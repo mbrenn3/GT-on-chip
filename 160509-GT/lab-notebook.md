@@ -30,7 +30,7 @@ Grow to OD = 0.4 chill to 0C for use.
 | 5/9/2016 17:00:00 |        |        | 0.488  |        |        | 0.472  |
 |                   |        |        | 0C     |        |        | 0C     |
 
-![image](growth-curves.png =600x)
+<img src="growth-curves.png" width="600" />
 
 Grow cells @ 37 until OD 0.4
 Spin down and resuspend in 1 mL chilled CDM 12 mL ==> 1 mL
