@@ -9,7 +9,7 @@
 
 **Victim: Cp2215** Nov-r Sp-r. Stock 4/15/16 OD 0.2 BoxMorrison2016#21-40
 
-Thaw Stock cells @ 0C. Dilute for growth in CDM + 1%CAT 12mL/tube. 
+Thaw Stock cells @ 0C. Dilute for growth in CDM + 1%CAT 12mL/tube.
 
 Media batch CAT:4/8/16, CDM:5/9/16
 
@@ -17,28 +17,31 @@ To CAT from stock shelf add phosphate and glucose. For 300 mL CAT add 10 mL 0.5 
 
 Grow to OD = 0.2 and chill to 0C for use.
 
-| cells             | Cp2204 | Cp2204 | Cp2204 | CP2215 | CP2215 | CP2215 |
-|-------------------|--------|--------|--------|--------|--------|--------|
-| vol               | 50 uL  | 100 ul | 200 uL | 50 uL  | 200 uL | 100 uL |
-| tube              | A      | B      | C      | D      | E      | F      |
-| 5/9/2016 10:50:00 | 0.003  | 0.003  | 0.001  | 0.003  | 0.006  | 0      |
-| 5/9/2016 11:20:00 | 0.002  | 0.006  | 0.006  | 0.001  | 0.017  | 0.009  |
-| 5/9/2016 12:07:00 | 0.004  | 0.004  | 0.004  | 0.005  | 0.035  | 0.016  |
-| 5/9/2016 12:46:00 | 0.001  | 0.003  | 0.009  | 0.013  | 0.08   | 0.03   |
-| 5/9/2016 13:30:00 | 0.006  | 0.015  | 0.021  | 0.042  | 0.191  | 0.075  |
-| 5/9/2016 14:00:00 | 0.01   | 0.014  | 0.035  | 0.074  | 0.315  | 0.131  |
-| 5/9/2016 14:30:00 | 0.017  | 0.038  | 0.055  | 0.125  | RT     | 0.207  |
-| 5/9/2016 15:00:00 | 0.027  | 0.053  | 0.076  | 0.202  | 0.466  | 0.266  |
-| 5/9/2016 15:41:00 | 0.048  | 0.091  | 0.134  | 0.27   | 0.504  | 0.325  |
-| 5/9/2016 16:30:00 | 0.091  | 0.183  | 0.278  | 0.355  | 0.636  | 0.418  |
-| 5/9/2016 17:00:00 |        |        | 0.488  |        |        | 0.472  |
-|                   |        |        | 0C     |        |        | 0C     |
+| cells | Cp2204 | Cp2204 | Cp2204 | CP2215 | CP2215 | CP2215 |
+|-------|--------|--------|--------|--------|--------|--------|
+| vol   | 200 uL | 100 ul | 50 uL  | 200 uL | 100 uL | 50 uL  |
+| tube  | A      | B      | C      | D      | E      | F      |
+| 10:14 | 0.004  | 0.003  | 0.002  | 0.008  | 0.006  | 0.003  |
+| 10:40 | 0.008  | 0.006  | 0.003  | 0.017  | 0.016  | 0.009  |
+| 11:15 | 0.01   | 0.005  | 0.003  | 0.022  | 0.034  | 0.016  |
+| 11:47 | 0.016  | 0.008  | 0.008  | 0.03   | 0.064  | 0.035  |
+|       |        |        |        | RT     | RT     | RT     |
+| 13:11 | 0.061  | 0.033  | 0.014  | 0.042  | 0.15   | 0.085  |
+| 14:06 | 0.148  | 0.08   | 0.043  | 0.05   | 0.219  | 0.133  |
+|       |        |        |        | 37C    |        | 37C    |
+| 14:23 | 0.187  | 0.1    | 0.054  | 0.052  | 0.242  | 0.161  |
+| 14:40 | 0.233  | 0.139  | 0.064  |        |        | 0.2    |
+| 14:48 |        | 0.15   |        |        |        | 0C     |
+| 14:56 |        | 0.162  |        |        |        |        |
+| 15:02 |        | 0.184  |        |        |        |        |
+| 15:08 |        | 0.195  |        |        |        |        |
+|       |        | 0C     |        |        |        |        |
 
 <img src="growth-curves.png" width="600" />
 
 ###Attack Reaction
 
-Cell Prep: 
+Cell Prep:
 
 At OD 0.2 chill to 0C.
 
@@ -58,6 +61,8 @@ Prepare reaction tubes according to following scheme. First add CDM to each tube
 | BSA       | 4%        | 0.04%     | 10          | 0.4%          | 60 uL  | 192 uL               |
 | CaCl2     | 1 M       | 5 mM      | 10          | 100 mM        | 30 uL   | 96 uL                |
 
+*note: CaCl2 precipitated when diluted in CDM so it was diluted in sterile water instead*
+
 **Reaction Scheme:**
 
 | Reaction | OD of each strain | Vol. Cell Mix | Vol. Inducer | CDM   |
@@ -69,4 +74,47 @@ Prepare reaction tubes according to following scheme. First add CDM to each tube
 | 5        | 0.3               | 112.5         | 114          | 373.5 |
 | 6        | .03               | 112.5         | -            | 487.5 |
 
-Put reaction tubes in heat block at 37C for 30 minutes.
+Put reaction tubes in heat block at 37C for 30 minutes. *reaction started at 3:42 PM*
+
+After 30 min reaction the 600 uL reaction mixture was diluted into 6 mL CAT and incubated at 37C for 60 minutes. *incubated starting at 4:18*
+
+**Expected Results**
+
+|                          | Attacker | Victim    | single cross | single cross | double cross |
+|--------------------------|----------|-----------|--------------|--------------|--------------|
+| drug                     | Rif-r    | N-r, Sp-r | R-r, N-r     | R-r, Sp-r    | RNS          |
+| expected number of cells | 10^9     | 10^9      | 10^5         | 10^5         | 30           |
+| Dilution for plating     | 10^-5    | 10^-5     | 10^-2        | 10^-2        | 10^-1        |
+| number of plates         | 1        | 1         | 2            | 2            | 3            |
+
+**Dilution Scheme**
+
+600 uL of reaction is diluted into 6 mL = 10^-1, 3 Plates: 3RNS
+
+700 uL transfered into 7 mL = 10^-2, 4 plates: 2RN, 2RS
+
+70 uL transfered into 7 mL = 10^-4, don't plate
+
+600 uL transfered into 6 mL = 10^-5, 2 plates: 1R, 1S
+
+Plates are filled with
+1. 3 mL CAT agar
+2. 1.5 mL cell mixed with 1.5 mL agar
+3. 3 mL CAT agar
+4. 3 mL Drug agar
+
+**Drug Assay Prep**
+
+| Drug | overlay  | Stock     |
+|------|----------|-----------|
+| R    | 40 ug/mL | 20 mg/mL  |
+| N    | 10 ug/mL | 10 mg/mL  |
+| S    | 160      | 100 mg/mL |
+
+|     | total volume | R uL | N uL | S uL  |
+|-----|--------------|------|------|-------|
+| R   | 20 mL        | 40   | -    | -     |
+| S   | 20 mL        | -    | 33.3 | -     |
+| RN  | 40 mL        | 80   | -    | 133.3 |
+| RS  | 40 mL        | 80   | 66.6 | -     |
+| RNS | 60 mL        | 120  | 100  | 60    |
