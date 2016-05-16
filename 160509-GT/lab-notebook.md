@@ -49,8 +49,10 @@ Mix cell strains => 2 mL each at 2.4 OD
 | 9  | .03               | 7.5          | 592.5        | -            | 537 | -   |
 | 10 | .03               | 7.5          | -            | 592.5        | -   | 561 |
 
-Working stocks:
+**Working stocks:**
+
 CSP diluted by 100 to 25 ug/mL in CDM, each tube gets 24 uL
+
 CaCl2 diluted in 5 mL CDM to 100 mM, each tube gets 25 uL
 
 6 uL of stock BSA added to each tube
@@ -58,10 +60,12 @@ CaCl2 diluted in 5 mL CDM to 100 mM, each tube gets 25 uL
 Each tube topped off with CDM according to table, and then with cell mix
 
 Reaction tubes incubated at 37 for 30 minutes
+
 0.2 mL of each tube was diluted in 2mL CAT at RT
+
 Tubes incubated at 37C for 60 minutes
 
-tubes were diluted according to scheme:
+**Cell suspension was diluted according to scheme:**
 
 600 uL cells pipetted into 6 mL CAT, 10^-1, plate 2 RNS  
 
@@ -71,7 +75,8 @@ tubes were diluted according to scheme:
 
 1 ml diluted in to 10 mL CAT, 10^-5, plate 1 R, 1 S
 
-Plates were filled with:
+**Plates were filled with:**
+
 1. 3 mL CAT agar
 2. 1.5 mL cell dilution + 1.5 mL CAT agar
 3. 3 mL CAT agar
