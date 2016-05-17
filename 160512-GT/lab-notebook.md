@@ -68,15 +68,15 @@ Prepare reaction tubes according to following scheme. First add CDM to each tube
 | Reaction | OD of each strain | Vol. Cell Mix | Vol. Inducer | CDM   |
 |----------|-------------------|---------------|--------------|-------|
 | 1        | 1                 | 375           | 114          | 111   |
-| 2        | 2                 | 375           | -            | 225   |
+| 2        | 1                 | 375           | -            | 225   |
 | 3        | 0.6               | 225           | 114          | 261   |
 | 4        | 0.6               | 225           | -            | 375   |
 | 5        | 0.3               | 112.5         | 114          | 373.5 |
-| 6        | .03               | 112.5         | -            | 487.5 |
+| 6        | 0.3               | 112.5         | -            | 487.5 |
 
 Put reaction tubes in heat block at 37C for 30 minutes. *reaction started at 3:42 PM*
 
-After 30 min reaction the 600 uL reaction mixture was diluted into 6 mL CAT and incubated at 37C for 60 minutes. *incubated starting at 4:18*
+After 30 min reaction, the 600 uL reaction mixture was diluted into 6 mL CAT and incubated at 37C for 60 minutes. *incubation starting at 4:18 PM*
 
 **Expected Results**
 
@@ -97,9 +97,10 @@ After 30 min reaction the 600 uL reaction mixture was diluted into 6 mL CAT and 
 
 600 uL transfered into 6 mL = 10^-5, 2 plates: 1R, 1S
 
-Plates are filled with
+Plates are filled with:
+
 1. 3 mL CAT agar
-2. 1.5 mL cell mixed with 1.5 mL agar
+2. 1.5 mL cells suspension mixed with 1.5 mL agar
 3. 3 mL CAT agar
 4. 3 mL Drug agar
 
@@ -118,3 +119,9 @@ Plates are filled with
 | RN  | 40 mL        | 80   | -    | 133.3 |
 | RS  | 40 mL        | 80   | 66.6 | -     |
 | RNS | 60 mL        | 120  | 100  | 60    |
+
+###Results
+
+No transformaion was observed. The control for each strain, the R, and S treated plates did have cultures, plotted below.
+
+<img src="results.png" width="600" />
