@@ -1,7 +1,7 @@
 #Cell-Cell attack and Gene Transfer
 ##Effects of CSP and cell density
 
-###May 12 2016
+###May 19 2016
 
 ###Cell cultures
 
@@ -11,7 +11,7 @@
 
 Thaw Stock cells @ 0C. Dilute for growth in CDM + 1%CAT 12mL/tube.
 
-Media batch CAT:4/8/16, CDM:5/9/16
+Media batch CAT:XXXXX, CDM:XXXXX
 
 To CAT from stock shelf add phosphate and glucose. For 300 mL CAT add 10 mL 0.5 M K2HPO4 (sterile filtered) and 3 mL 20% glucose (sterile filtered).
 
@@ -21,21 +21,6 @@ Grow to OD = 0.2 and chill to 0C for use.
 |-------|--------|--------|--------|--------|--------|--------|
 | vol   | 200 uL | 100 ul | 50 uL  | 200 uL | 100 uL | 50 uL  |
 | tube  | A      | B      | C      | D      | E      | F      |
-| 10:14 | 0.004  | 0.003  | 0.002  | 0.008  | 0.006  | 0.003  |
-| 10:40 | 0.008  | 0.006  | 0.003  | 0.017  | 0.016  | 0.009  |
-| 11:15 | 0.01   | 0.005  | 0.003  | 0.022  | 0.034  | 0.016  |
-| 11:47 | 0.016  | 0.008  | 0.008  | 0.03   | 0.064  | 0.035  |
-|       |        |        |        | RT     | RT     | RT     |
-| 13:11 | 0.061  | 0.033  | 0.014  | 0.042  | 0.15   | 0.085  |
-| 14:06 | 0.148  | 0.08   | 0.043  | 0.05   | 0.219  | 0.133  |
-|       |        |        |        | 37C    |        | 37C    |
-| 14:23 | 0.187  | 0.1    | 0.054  | 0.052  | 0.242  | 0.161  |
-| 14:40 | 0.233  | 0.139  | 0.064  |        |        | 0.2    |
-| 14:48 |        | 0.15   |        |        |        | 0C     |
-| 14:56 |        | 0.162  |        |        |        |        |
-| 15:02 |        | 0.184  |        |        |        |        |
-| 15:08 |        | 0.195  |        |        |        |        |
-|       |        | 0C     |        |        |        |        |
 
 <img src="growth-curves.png" width="600" />
 
@@ -74,15 +59,15 @@ Prepare reaction tubes according to following scheme. First add CDM to each tube
 | 5        | 0.3               | 112.5         | 114          | 373.5 |
 | 6        | .03               | 112.5         | -            | 487.5 |
 
-Put reaction tubes in heat block at 37C for 30 minutes. *reaction started at 3:42 PM*
+Put reaction tubes in heat block at 37C for 30 minutes. *reaction started at:*
 
-After 30 min reaction the 600 uL reaction mixture was diluted into 6 mL CAT and incubated at 37C for 60 minutes. *incubated starting at 4:18*
+After 30 min reaction the 600 uL reaction mixture was diluted into 6 mL CAT and incubated at 37C for 60 minutes. *Incubation started at:*
 
 **Expected Results**
 
 |                          | Attacker | Victim    | single cross | single cross | double cross |
 |--------------------------|----------|-----------|--------------|--------------|--------------|
-| drug                     | Rif-r    | N-r, Sp-r | R-r, N-r     | R-r, Sp-r    | RNS          |
+| drug                     | Rif-r, Nov-s, Sp-s| N-r, Sp-r | R-r, N-r     | R-r, Sp-r    | RNS          |
 | expected number of cells | 10^9     | 10^9      | 10^5         | 10^5         | 30           |
 | Dilution for plating     | 10^-5    | 10^-5     | 10^-2        | 10^-2        | 10^-1        |
 | number of plates         | 1        | 1         | 2            | 2            | 3            |
