@@ -82,7 +82,8 @@ After 30 min reaction the 600 uL reaction mixture was diluted into 6 mL CAT and 
 
 600 uL transfered into 6 mL = 10^-5, 2 plates: 1R, 1S
 
-Plates are filled with
+Plates are filled with:
+
 1. 3 mL CAT agar
 2. 1.5 mL cell mixed with 1.5 mL agar
 3. 3 mL CAT agar
