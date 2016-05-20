@@ -41,7 +41,7 @@ Grow to OD = 0.2 and chill to 0C for use.
 
 ###Attack Reaction
 
-Cell Prep:
+**Cell Prep:**
 
 At OD 0.2 chill to 0C.
 
