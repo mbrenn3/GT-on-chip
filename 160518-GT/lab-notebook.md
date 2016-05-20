@@ -11,7 +11,7 @@
 
 Thaw Stock cells @ 0C. Dilute for growth in CDM + 1%CAT 12mL/tube.
 
-Media batch CAT:XXXXX, CDM:XXXXX
+Media batch CAT:4/6/16, CDM-NCNM:5/18/16 
 
 To CAT from stock shelf add phosphate and glucose. For 300 mL CAT add 10 mL 0.5 M K2HPO4 (sterile filtered) and 3 mL 20% glucose (sterile filtered).
 
@@ -42,9 +42,11 @@ Prepare reaction tubes according to following scheme. First add CDM to each tube
 
 | component | Stock     | Inducer   | Dilute by   | working stock | Vol/RX | Total (3.2x(Vol/RX)) |
 |-----------|-----------|-----------|-------------|---------------|--------|----------------------|
-| CSP       | 250 ug/mL | 0.1 ug/mL | 100         | 2.5 ug/mL     | 24 uL  | 76.8 uL              |
+| CSP       | 250 ug/mL | 0.2 ug/mL*| 50          | 5 ug/mL       | 24 uL  | 76.8 uL              |
 | BSA       | 4%        | 0.04%     | 10          | 0.4%          | 60 uL  | 192 uL               |
 | CaCl2     | 1 M       | 5 mM      | 10          | 100 mM        | 30 uL   | 96 uL                |
+
+**typically 0.1 ug/mL of CSP is used, it was doubled in this case*
 
 *note: CaCl2 precipitated when diluted in CDM so it was diluted in sterile water instead*
 
@@ -53,13 +55,13 @@ Prepare reaction tubes according to following scheme. First add CDM to each tube
 | Reaction | OD of each strain | Vol. Cell Mix | Vol. Inducer | CDM   |
 |----------|-------------------|---------------|--------------|-------|
 | 1        | 1                 | 375           | 114          | 111   |
-| 2        | 2                 | 375           | -            | 225   |
+| 2        | 1                 | 375           | -            | 225   |
 | 3        | 0.6               | 225           | 114          | 261   |
 | 4        | 0.6               | 225           | -            | 375   |
 | 5        | 0.3               | 112.5         | 114          | 373.5 |
-| 6        | .03               | 112.5         | -            | 487.5 |
+| 6        | 0.03               | 112.5        | -            | 487.5 |
 
-Put reaction tubes in heat block at 37C for 30 minutes. *reaction started at:*
+Put reaction tubes in heat block at 37C for **35 minutes**. *reaction started at:*
 
 After 30 min reaction the 600 uL reaction mixture was diluted into 6 mL CAT and incubated at 37C for 60 minutes. *Incubation started at:*
 
