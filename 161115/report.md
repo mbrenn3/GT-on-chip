@@ -36,29 +36,13 @@ Take 2 x 12 mL tubes of cell suspension and spin down at 8k rcf for 8 min in chi
 
 Pour off supernatant and resuspend in 0.45 mL M9 to make OD 0.4.
 
-Combine 300 uL of each strain to make 600 uL cells each at OD 0.2
+Combine 300 uL of each strain to make 600 uL cells each at OD 0.2.
 
 Pull 500 uL of cell mix into syringe
 
-
-
-Resuspend and add to inducer
-
-Load each strain in syringe
-
-**Reaction Scheme:**
-When cells meet in droplet device each will be at OD = 1
-
-Droplet generation was done with an ice pack on the syringes.
-The heated stage was used to monitor temperature which was about 28C
-The outlet tubing fed into a reaction tube in a heat block on ice.
-Droplets were generated for about 2.5 hours, and then the reaction tube was placed in a heat block at 37 C for 30 minutes.
-
-*reaction started at:*
-
 **Inducer Prep:**
 
-Produce 700 uL of double strength inducer in M9:
+Produce 700 uL of double strength inducer in M9 and pull 500 uL into a syringe:
 
 | cell suspension volume to match | 700   |       |         |           |               |            |
 |---------------------------------|-------|-------|---------|-----------|---------------|------------|
@@ -78,27 +62,38 @@ Produce 700 uL of double strength inducer in M9:
 | BSA            | 100 uL | 1 mL | -    |
 | CaCl2          | 100 uL | -    | 1 mL |
 
+
+**Reaction Scheme:**
+
+Droplet production was performed in the cold room.
+When cells combine with inducer in droplet device they will be diluted to 0.1 each.
+The remaining cell mix and inducer was kept in the cold room to be combined as a control.
+After 100 uL was pumped through the device (resulting in about 200 uL of droplets in oil)
+The emulsion and control reaction are placed in a heat block at 37C for 30 minutes
+
+*reaction started at:*
+
 **Emlusion Breaking**
 
-Starting with 200 uL cells in emlusion add 500 uL CAT
+Both reaction tubes were taken out and placed at room temperature while emulsion breaking was formed
 
-Spin down for 30 seconds at 100 x g (in simple centrifuge at heidi's bench)
+1. Starting with 200 uL cells in emlusion add 500 uL CAT
 
-Pipette oil out from bottom
+2. Spin down for 30 seconds at 100 x g (in simple centrifuge at heidi's bench)
 
-add two times volume of pico break and gently rock tube
+3. Pipette oil out from bottom
 
-spin again for 1 min at 100-1000 x g
+4. add two times volume of pico break and gently rock tube
 
-pipette out top(cells) ~ 700 uL
+5. spin again for 1 min at 100-1000 x g
 
-Transfer to another tube and bring up to 2 mL with CAT
+6. pipette out top(cells) ~ 700 uL
 
-Incubate for 1 hour at 37 C in a heat block
+Reactions ~200 uL were transfered to another tube tube and brought up to 2 mL with CAT
+
+Reactions were incubated for 60 minutes at 37 C.
 
 **Dilution Scheme**
-
-200 uL cell emulsion was transfered in to 2 mL CAT previously and incubated for 1 hour
 
 150 uL pipetted into 1.5 mL CAT to make 10^-2, 3xRNS, 3xRS, 3xRN, one for further dilution
 
@@ -132,33 +127,46 @@ Incubate for 1 hour at 37 C in a heat block
 
 **Cell Counts Cells/mL**
 
-| Plate | Dilution | Colonies/Squares | Magnification | Colonies/Plate | Comment | Cells/mL |
-|-------|----------|------------------|---------------|----------------|---------|----------|
-| 1     | 1.00E-02 |                  |               | 0              | RNS     | 0        |
-| 1     | 1.00E-02 |                  |               | 0              | RNS     | 0        |
-| 1     | 1.00E-02 |                  |               | 0              | RNS     | 0        |
-|       |          |                  |               |                |         |          |
-| 1     | 1.00E-02 |                  |               | 0              | RN      | 0        |
-| 1     | 1.00E-02 |                  |               | 0              | RN      | 0        |
-| 1     | 1.00E-02 |                  |               | 0              | RN      | 0        |
-|       |          |                  |               |                |         |          |
-| 1     | 1.00E-02 |                  |               | 0              | RS      | 0        |
-| 1     | 1.00E-02 |                  |               | 0              | RS      | 0        |
-| 1     | 1.00E-02 |                  |               | 0              | RS      | 0        |
-|       |          |                  |               |                |         |          |
-| 1     | 1.00E-05 |                  |               | 63             | R       | 4.20E+06 |
-| 1     | 1.00E-05 |                  |               | 53             | R       | 3.53E+06 |
-| 1     | 1.00E-05 |                  |               | 60             | R       | 4.00E+06 |
-|       |          |                  |               |                |         |          |
-| 1     | 1.00E-05 |                  |               | 9              | S       | 6.00E+05 |
-| 1     | 1.00E-05 |                  |               | 8              | S       | 5.33E+05 |
-| 1     | 1.00E-05 |                  |               | 11             | S       | 7.33E+05 |
+| RX | Dilution | Colonies | squares | squares/plate | colonies/plate | Drug | Cells/ml |
+|----|----------|----------|---------|---------------|----------------|------|----------|
+| 1  | 1.00E-06 |          |         |               | 0              | R    | 0.00E+00 |
+| 1  | 1.00E-06 |          |         |               | 0              | R    | 0.00E+00 |
+| 1  | 1.00E-06 |          |         |               | 0              | R    | 0.00E+00 |
+| 1  | 1.00E-06 |          |         |               | 1              | S    | 6.67E+05 |
+| 1  | 1.00E-06 |          |         |               | 1              | S    | 6.67E+05 |
+| 1  | 1.00E-06 |          |         |               | 3              | S    | 2.00E+06 |
+| 1  | 1.00E-02 |          |         |               | 0              | RS   | 0.00E+00 |
+| 1  | 1.00E-02 |          |         |               | 0              | RS   | 0.00E+00 |
+| 1  | 1.00E-02 |          |         |               | 0              | RS   | 0.00E+00 |
+| 1  | 1.00E-02 |          |         |               | 0              | RN   | 0.00E+00 |
+| 1  | 1.00E-02 |          |         |               | 0              | RN   | 0.00E+00 |
+| 1  | 1.00E-02 |          |         |               | 0              | RN   | 0.00E+00 |
+| 1  | 1.00E-01 |          |         |               | 0              | RNS  | 0.00E+00 |
+| 1  | 1.00E-01 |          |         |               | 0              | RNS  | 0.00E+00 |
+| 1  | 1.00E-01 |          |         |               | 0              | RNS  | 0.00E+00 |
+|    |          |          |         |               |                |      |          |
+| 2  | 1.00E-06 |          |         |               | 2              | R    | 1.33E+06 |
+| 2  | 1.00E-06 |          |         |               | 5              | R    | 3.33E+06 |
+| 2  | 1.00E-06 |          |         |               | 5              | R    | 3.33E+06 |
+| 2  | 1.00E-06 |          |         |               | 12             | S    | 8.00E+06 |
+| 2  | 1.00E-06 |          |         |               | 11             | S    | 7.33E+06 |
+| 2  | 1.00E-06 |          |         |               | 18             | S    | 1.20E+07 |
+| 2  | 1.00E-02 |          |         |               | 0              | RS   | 0.00E+00 |
+| 2  | 1.00E-02 |          |         |               | 0              | RS   | 0.00E+00 |
+| 2  | 1.00E-02 |          |         |               | 0              | RS   | 0.00E+00 |
+| 2  | 1.00E-02 |          |         |               | 0              | RN   | 0.00E+00 |
+| 2  | 1.00E-02 |          |         |               | 0              | RN   | 0.00E+00 |
+| 2  | 1.00E-02 |          |         |               | 0              | RN   | 0.00E+00 |
+| 2  | 1.00E-01 |          |         |               | 0              | RNS  | 0.00E+00 |
+| 2  | 1.00E-01 |          |         |               | 0              | RNS  | 0.00E+00 |
+| 2  | 1.00E-01 |          |         |               | 0              | RNS  | 0.00E+00 |
 
 **Summary of Results by cell count (cells/mL)**
 
-| RNS | RN | RS | R           | S           |
-|-----|----|----|-------------|-------------|
-| 0   | 0  | 0  | 3911111.111 | 622222.2222 |
+|        | Reaction | R        | S       | RS | RN | RNS  |
+|----------|---|----------|----------|----|-----|---|
+| emulsion | 1 | 0.00E+00 | 1.11E+06 | 0  | 0   | 0 |
+| control  | 2 | 2.67E+06 | 9.11E+06 | 0  | 0   | 0 |
 
 ## Discussion and Conclusion
 
