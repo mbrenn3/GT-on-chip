@@ -104,10 +104,10 @@ Reactions were incubated for 60 minutes at 37 C.
 
 **Plates are filled with:**
 
-1. 3 mL CAT agar
-2. 1.5 mL cells + 1.5 mL agar
-3. 3 mL CAT agar
-4. 3 mL Drug agar
+1. 150 uL CAT agar
+2. 75 uL cells + 75 uL agar
+3. 150 uL CAT agar
+4. 150 uL Drug agar
 
 **Drug Assay Prep**
 
