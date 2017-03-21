@@ -92,13 +92,15 @@ Reactions were incubated for 60 minutes at 37 C.
 
 **Dilution Scheme**
 
-150 uL pipetted into 1.5 mL CAT to make 10^-2, 3xRNS, 3xRS, 3xRN, one for further dilution
-
-150 uL pipetted into 1.5 mL CAT to make 10^-3
+150 uL pipetted into 1.5 mL CAT to make 10^-3, 3xRNS, 3xRS, 3xRN, one for further dilution
 
 150 uL pipetted into 1.5 mL CAT to make 10^-4
 
-150 uL pipettd into 1.5 mL CAT to make 10^-5, 3xR, 3xS
+150 uL pipetted into 1.5 mL CAT to make 10^-5
+
+150 uL pipettd into 1.5 mL CAT to make 10^-6, 3xR, 3xS
+
+*I mistakenly diluted too much. I intended to plate at 10^-2 for crosses and 10^-5 for counts*
 
 **Plates are filled with:**
 
@@ -124,49 +126,51 @@ Reactions were incubated for 60 minutes at 37 C.
 
 **Cell Counts Cells/mL**
 
-| RX | Dilution | Colonies | squares | squares/plate | colonies/plate | Drug | Cells/ml |
-|----|----------|----------|---------|---------------|----------------|------|----------|
-| 1  | 1.00E-06 |          |         |               |                | R    |          |
-| 1  | 1.00E-06 |          |         |               |                | R    |          |
-| 1  | 1.00E-06 |          |         |               |                | R    |          |
-| 1  | 1.00E-06 |          |         |               |                | S    |          |
-| 1  | 1.00E-06 |          |         |               |                | S    |          |
-| 1  | 1.00E-06 |          |         |               |                | S    |          |
-| 1  | 1.00E-02 |          |         |               |                | RS   |          |
-| 1  | 1.00E-02 |          |         |               |                | RS   |          |
-| 1  | 1.00E-02 |          |         |               |                | RS   |          |
-| 1  | 1.00E-02 |          |         |               |                | RN   |          |
-| 1  | 1.00E-02 |          |         |               |                | RN   |          |
-| 1  | 1.00E-02 |          |         |               |                | RN   |          |
-| 1  | 1.00E-01 |          |         |               |                | RNS  |          |
-| 1  | 1.00E-01 |          |         |               |                | RNS  |          |
-| 1  | 1.00E-01 |          |         |               |                | RNS  |          |
-|    |          |          |         |               |                |      |          |
-| 2  | 1.00E-06 |          |         |               |                | R    |          |
-| 2  | 1.00E-06 |          |         |               |                | R    |          |
-| 2  | 1.00E-06 |          |         |               |                | R    |          |
-| 2  | 1.00E-06 |          |         |               |                | S    |          |
-| 2  | 1.00E-06 |          |         |               |                | S    |          |
-| 2  | 1.00E-06 |          |         |               |                | S    |          |
-| 2  | 1.00E-02 |          |         |               |                | RS   |          |
-| 2  | 1.00E-02 |          |         |               |                | RS   |          |
-| 2  | 1.00E-02 |          |         |               |                | RS   |          |
-| 2  | 1.00E-02 |          |         |               |                | RN   |          |
-| 2  | 1.00E-02 |          |         |               |                | RN   |          |
-| 2  | 1.00E-02 |          |         |               |                | RN   |          |
-| 2  | 1.00E-01 |          |         |               |                | RNS  |          |
-| 2  | 1.00E-01 |          |         |               |                | RNS  |          |
-| 2  | 1.00E-01 |          |         |               |                | RNS  |          |
+| RX | Dilution | Colonies/ | squares | squares/plate(MAG) | colonies/plate | Drug | Cells/ml |          |
+|----|----------|-----------|---------|--------------------|----------------|------|----------|----------|
+| 1  | 1.00E-06 | 0         | 1       | 1                  | 0              | S    | 0.00E+00 |          |
+| 1  | 1.00E-06 | 0         | 1       | 1                  | 0              | S    | 0.00E+00 |          |
+| 1  | 1.00E-06 | 0         | 1       | 1                  | 0              | S    | 0.00E+00 |          |
+| 1  | 1.00E-06 | 1         | 1       | 1                  | 1              | R    | 1.33E+07 |          |
+| 1  | 1.00E-06 | 1         | 1       | 1                  | 1              | R    | 1.33E+07 | 8.89E+06 |
+| 1  | 1.00E-06 | 0         | 1       | 1                  | 0              | R    | 0.00E+00 |          |
+| 1  | 1.00E-03 | 0         | 1       | 1                  | 0              | RS   | 0.00E+00 |          |
+| 1  | 1.00E-03 | 0         | 1       | 1                  | 0              | RS   | 0.00E+00 |          |
+| 1  | 1.00E-03 | 0         | 1       | 1                  | 0              | RS   | 0.00E+00 |          |
+| 1  | 1.00E-03 | 0         | 1       | 1                  | 0              | RN   | 0.00E+00 |          |
+| 1  | 1.00E-03 | 0         | 1       | 1                  | 0              | RN   | 0.00E+00 |          |
+| 1  | 1.00E-03 | 0         | 1       | 1                  | 0              | RN   | 0.00E+00 |          |
+| 1  | 1.00E-03 | 0         | 1       | 1                  | 0              | RNS  | 0.00E+00 |          |
+| 1  | 1.00E-03 | 0         | 1       | 1                  | 0              | RNS  | 0.00E+00 |          |
+| 1  | 1.00E-03 | 0         | 1       | 1                  | 0              | RNS  | 0.00E+00 |          |
+|    |          |           |         |                    |                |      |          |          |
+|    |          |           |         |                    |                |      |          |          |
+| 2  | 1.00E-06 | 4         | 1       | 1                  | 4              | S    | 5.33E+07 |          |
+| 2  | 1.00E-06 | 4         | 1       | 1                  | 4              | S    | 5.33E+07 | 4.00E+07 |
+| 2  | 1.00E-06 | 1         | 1       | 1                  | 1              | S    | 1.33E+07 |          |
+| 2  | 1.00E-06 | 14        | 1       | 40                 | 560            | R    | 7.47E+09 |          |
+| 2  | 1.00E-06 | 13        | 1       | 40                 | 520            | R    | 6.93E+09 | 8.36E+09 |
+| 2  | 1.00E-06 | 20        | 1       | 40                 | 800            | R    | 1.07E+10 |          |
+| 2  | 1.00E-03 | 0         | 1       | 1                  | 0              | RS   | 0.00E+00 |          |
+| 2  | 1.00E-03 | 0         | 1       | 1                  | 0              | RS   | 0.00E+00 |          |
+| 2  | 1.00E-03 | 0         | 1       | 1                  | 0              | RS   | 0.00E+00 |          |
+| 2  | 1.00E-03 | 0         | 1       | 1                  | 0              | RN   | 0.00E+00 |          |
+| 2  | 1.00E-03 | 0         | 1       | 1                  | 0              | RN   | 0.00E+00 |          |
+| 2  | 1.00E-03 | 0         | 1       | 1                  | 0              | RN   | 0.00E+00 |          |
+| 2  | 1.00E-03 | 0         | 1       | 1                  | 0              | RNS  | 0.00E+00 |          |
+| 2  | 1.00E-03 | 0         | 1       | 1                  | 0              | RNS  | 0.00E+00 |          |
+| 2  | 1.00E-03 | 0         | 1       | 1                  | 0              | RNS  | 0.00E+00 |          |
 
-**Summary of Results by cell count (cells/mL)**
+**Summery of Results by cell count (cells/mL)**
 
-| condition| Reaction  | R        | S        | RS | RN | RNS|
-|----------|-----------|----------|----------|----|----|----|
-| emulsion | 1         |          |          | 0  | 0  | 0  |
-| control  | 2         |          |          | 0  | 0  | 0  |
+| 2/14 OD: 0.1 | S        | R        | RN       | RS       | RNS      |
+|--------------|----------|----------|----------|----------|----------|
+| droplets     | 0.00E+00 | 0.00E+00 | 0.00E+00 | 0.00E+00 | 0.00E+00 |
+| control      | 4.00E+07 | 8.36E+09 | 0.00E+00 | 0.00E+00 | 0.00E+00 |
 
 ## Discussion and Conclusion
 
+Plated concentration was too low to get a good count. The control count is also low and now crosses were observed.
 
 ## Appendix:
 
