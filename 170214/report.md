@@ -165,7 +165,7 @@ Reactions were incubated for 60 minutes at 37 C.
 
 | 2/14 OD: 0.1 | S        | R        | RN       | RS       | RNS      |
 |--------------|----------|----------|----------|----------|----------|
-| droplets     | 0.00E+00 | 0.00E+00 | 0.00E+00 | 0.00E+00 | 0.00E+00 |
+| droplets     | 0.00E+00 | 8.89E+06 | 0.00E+00 | 0.00E+00 | 0.00E+00 |
 | control      | 4.00E+07 | 8.36E+09 | 0.00E+00 | 0.00E+00 | 0.00E+00 |
 
 ## Discussion and Conclusion
