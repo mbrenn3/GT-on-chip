@@ -1,8 +1,8 @@
 # Reaction in Device
 
-### January 24 2016
+### February 14 2017
 
-One volume of cells is made into and emulsion with the device and compared to a control volume.
+One volume of cells is made into and emulsion with the device and compared to a control volume. Cells are reacted at OD of 0.2
 
 **Cell cultures:**
 
@@ -13,9 +13,7 @@ One volume of cells is made into and emulsion with the device and compared to a 
 
 Thaw Stock cells @ 0C. Stock: box Morrison 2017. Dilute for growth in CDM + 1% CAT 12mL/tube.
 
-CDM CAT and M9 used were filtered with a luer-lock filter (0.22 uM)
-
-Grow to OD of 0.1 and chill.
+Grow to OD of 0.2 and chill.
 
 | cells | Cp2204 | CP2215 |
 |-------|--------|--------|
@@ -28,13 +26,21 @@ Grow to OD of 0.1 and chill.
 
 **Cell Prep:**
 
-Take 2 x 12 mL tubes of cell suspension and spin down at 8k rcf for 8 min in chilled incubator.
+| For 12 mL growth tubes: | OD  |
+|-------------------------|-----|
+| *Resuspend Volume (mL)  | 3   |
+| *Desired OD in Reaction | 0.2 |
+| Cell mix                | 0.4 |
+| Each Srain resuspended  | 0.8 |
+| ***Grow to***           | ***0.2*** |
 
-Pour off supernatant and resuspend in 3 mL M9 to make OD 0.4.
+1. Take 2 x 12 mL tubes of cell suspension and spin down at 8k rcf for 8 min in chilled incubator.
 
-Combine 300 uL of each strain to make 600 uL cells each at OD 0.2.
+2. Pour off supernatant and resuspend in M9.
 
-Pull 500 uL of cell mix into syringe
+3. Combine 300 uL of each strain to make 600 uL cell mix.
+
+4. Pull 350 uL of cell mix into syringe
 
 **Inducer Prep:**
 
@@ -126,52 +132,57 @@ Reactions were incubated for 60 minutes at 37 C.
 
 **Cell Counts Cells/mL**
 
-| RX | Dilution | Colonies/ | squares | squares/plate(MAG) | colonies/plate | Drug | Cells/ml |          |
+| RX | Dilution | Colonies/ | squares | squares/plate(MAG) | colonies/plate | Drug | Cells/ml | Ave      |
 |----|----------|-----------|---------|--------------------|----------------|------|----------|----------|
-| 1  | 1.00E-06 | 0         | 1       | 1                  | 0              | S    | 0.00E+00 |          |
-| 1  | 1.00E-06 | 0         | 1       | 1                  | 0              | S    | 0.00E+00 |          |
-| 1  | 1.00E-06 | 0         | 1       | 1                  | 0              | S    | 0.00E+00 |          |
-| 1  | 1.00E-06 | 1         | 1       | 1                  | 1              | R    | 1.33E+07 |          |
-| 1  | 1.00E-06 | 1         | 1       | 1                  | 1              | R    | 1.33E+07 | 8.89E+06 |
-| 1  | 1.00E-06 | 0         | 1       | 1                  | 0              | R    | 0.00E+00 |          |
-| 1  | 1.00E-03 | 0         | 1       | 1                  | 0              | RS   | 0.00E+00 |          |
-| 1  | 1.00E-03 | 0         | 1       | 1                  | 0              | RS   | 0.00E+00 |          |
-| 1  | 1.00E-03 | 0         | 1       | 1                  | 0              | RS   | 0.00E+00 |          |
+| 1  | 1.00E-06 | 46        | 1       | 1                  | 46             | S    | 6.13E+08 |          |
+| 1  | 1.00E-06 | 46        | 1       | 1                  | 46             | S    | 6.13E+08 | 6.13E+08 |
+| 1  | 1.00E-06 | 46        | 1       | 1                  | 46             | S    | 6.13E+08 |          |
+| 1  | 1.00E-06 | 53        | 1       | 1                  | 53             | R    | 7.07E+08 |          |
+| 1  | 1.00E-06 | 53        | 1       | 1                  | 53             | R    | 7.07E+08 | 7.07E+08 |
+| 1  | 1.00E-06 | 53        | 1       | 1                  | 53             | R    | 7.07E+08 |          |
+| 1  | 1.00E-03 | 36        | 1       | 20                 | 720            | RS   | 9.60E+06 |          |
+| 1  | 1.00E-03 | 30        | 1       | 20                 | 600            | RS   | 8.00E+06 | 9.69E+06 |
+| 1  | 1.00E-03 | 43        | 1       | 20                 | 860            | RS   | 1.15E+07 |          |
 | 1  | 1.00E-03 | 0         | 1       | 1                  | 0              | RN   | 0.00E+00 |          |
-| 1  | 1.00E-03 | 0         | 1       | 1                  | 0              | RN   | 0.00E+00 |          |
+| 1  | 1.00E-03 | 0         | 1       | 1                  | 0              | RN   | 0.00E+00 | 0.00E+00 |
 | 1  | 1.00E-03 | 0         | 1       | 1                  | 0              | RN   | 0.00E+00 |          |
 | 1  | 1.00E-03 | 0         | 1       | 1                  | 0              | RNS  | 0.00E+00 |          |
-| 1  | 1.00E-03 | 0         | 1       | 1                  | 0              | RNS  | 0.00E+00 |          |
+| 1  | 1.00E-03 | 0         | 1       | 1                  | 0              | RNS  | 0.00E+00 | 0.00E+00 |
 | 1  | 1.00E-03 | 0         | 1       | 1                  | 0              | RNS  | 0.00E+00 |          |
 |    |          |           |         |                    |                |      |          |          |
 |    |          |           |         |                    |                |      |          |          |
-| 2  | 1.00E-06 | 4         | 1       | 1                  | 4              | S    | 5.33E+07 |          |
-| 2  | 1.00E-06 | 4         | 1       | 1                  | 4              | S    | 5.33E+07 | 4.00E+07 |
-| 2  | 1.00E-06 | 1         | 1       | 1                  | 1              | S    | 1.33E+07 |          |
-| 2  | 1.00E-06 | 14        | 1       | 40                 | 560            | R    | 7.47E+09 |          |
-| 2  | 1.00E-06 | 13        | 1       | 40                 | 520            | R    | 6.93E+09 | 8.36E+09 |
-| 2  | 1.00E-06 | 20        | 1       | 40                 | 800            | R    | 1.07E+10 |          |
-| 2  | 1.00E-03 | 0         | 1       | 1                  | 0              | RS   | 0.00E+00 |          |
-| 2  | 1.00E-03 | 0         | 1       | 1                  | 0              | RS   | 0.00E+00 |          |
-| 2  | 1.00E-03 | 0         | 1       | 1                  | 0              | RS   | 0.00E+00 |          |
+| 2  | 1.00E-06 | 180       | 1       | 20                 | 3600           | S    | 4.80E+10 |          |
+| 2  | 1.00E-06 | 180       | 1       | 20                 | 3600           | S    | 4.80E+10 | 4.80E+10 |
+| 2  | 1.00E-06 | 180       | 1       | 20                 | 3600           | S    | 4.80E+10 |          |
+| 2  | 1.00E-06 | 185       | 1       | 20                 | 3700           | R    | 4.93E+10 |          |
+| 2  | 1.00E-06 | 185       | 1       | 20                 | 3700           | R    | 4.93E+10 | 4.93E+10 |
+| 2  | 1.00E-06 | 185       | 1       | 20                 | 3700           | R    | 4.93E+10 |          |
+| 2  | 1.00E-03 | 1000      | 1       | 20                 | 20000          | RS   | 2.67E+08 |          |
+| 2  | 1.00E-03 | 1000      | 1       | 20                 | 20000          | RS   | 2.67E+08 | 2.67E+08 |
+| 2  | 1.00E-03 | 1000      | 1       | 20                 | 20000          | RS   | 2.67E+08 |          |
 | 2  | 1.00E-03 | 0         | 1       | 1                  | 0              | RN   | 0.00E+00 |          |
-| 2  | 1.00E-03 | 0         | 1       | 1                  | 0              | RN   | 0.00E+00 |          |
+| 2  | 1.00E-03 | 0         | 1       | 1                  | 0              | RN   | 0.00E+00 | 0.00E+00 |
 | 2  | 1.00E-03 | 0         | 1       | 1                  | 0              | RN   | 0.00E+00 |          |
 | 2  | 1.00E-03 | 0         | 1       | 1                  | 0              | RNS  | 0.00E+00 |          |
-| 2  | 1.00E-03 | 0         | 1       | 1                  | 0              | RNS  | 0.00E+00 |          |
+| 2  | 1.00E-03 | 0         | 1       | 1                  | 0              | RNS  | 0.00E+00 | 0.00E+00 |
 | 2  | 1.00E-03 | 0         | 1       | 1                  | 0              | RNS  | 0.00E+00 |          |
 
-**Summery of Results by cell count (cells/mL)**
+**Summary of Results by cell count (cells/mL)**
 
-| 2/14 OD: 0.1 | S        | R        | RN       | RS       | RNS      |
-|--------------|----------|----------|----------|----------|----------|
-| droplets     | 0.00E+00 | 8.89E+06 | 0.00E+00 | 0.00E+00 | 0.00E+00 |
-| control      | 4.00E+07 | 8.36E+09 | 0.00E+00 | 0.00E+00 | 0.00E+00 |
+| Feb 14 OD: 0.2 | S        | R        | RN       | RS*       | RNS      |
+|----------------|----------|----------|----------|----------|----------|
+| droplets       | 6.13E+08 | 7.07E+08 | 0.00E+00 | 9.69E+06 | 0.00E+00 |
+| control        | 4.80E+10 | 4.93E+10 | 0.00E+00 | 2.67E+08 | 0.00E+00 |
+
+**spectinomycin was substituted for streptomycin accidentally*
+
+****
 
 ## Discussion and Conclusion
 
-Plated concentration was too low to get a good count. The control count is also low and now crosses were observed.
+Plated concentration was too low to get a good count. The control count is also low and now crosses were observed. RS is a false positive; Spectinomycin was accidentally not used.
 
 ## Appendix:
 
-To CAT from stock shelf add phosphate and glucose. For 300 mL CAT add 10 mL 0.5 M K2HPO4 (sterile filtered) and 3 mL 20% glucose (sterile filtered).
+To CAT from stock shelf add phosphate and glucose.
+For 300 mL CAT add 10 mL of 0.5 M K2HPO4 (sterile filtered) and 3 mL of 20% glucose (sterile filtered).

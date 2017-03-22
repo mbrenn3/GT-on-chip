@@ -90,26 +90,24 @@ Both reaction tubes were taken out and placed at room temperature while emulsion
 
 6. pipette out top(cells) ~ 200 uL
 
-Reactions ~200 uL were transfered to another tube tube and brought up to 600 uL with CAT
-
 Reactions were incubated for 60 minutes at 37 C.
+
+**Reactions were then frozen at -80C with 15% glycerol added (due to the autoclaves being down)**
 
 **Dilution Scheme**
 
-150 uL pipetted into 1.5 mL CAT to make 10^-2, 3xRNS, 3xRS, 3xRN, one for further dilution
+Reactions were thawed and brought up to 500 uL to make 10^-2, 75 uL plated for RNSx2, RSx2, and RNx2
 
-150 uL pipetted into 1.5 mL CAT to make 10^-3
+30 uL pipetted into 3 mL to make 10^-4
 
-150 uL pipetted into 1.5 mL CAT to make 10^-4
-
-150 uL pipettd into 1.5 mL CAT to make 10^-5, 3xR, 3xS
+150 uL pipetted into 1.5 mL to make 10^-5, 150 uL plated for Rx3 and Sx3
 
 **Plates are filled with:**
 
-1. 3 mL CAT agar
-2. 1.5 mL cells + 1.5 mL agar
-3. 3 mL CAT agar
-4. 3 mL Drug agar
+1. 150 mL CAT agar
+2. 75 ul cells + 75 ul Agar
+3. 150 uL CAT agar
+4. 150 uL Drug agar
 
 **Drug Assay Prep**
 
