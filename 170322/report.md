@@ -1,4 +1,4 @@
-# Reaction in Device
+# Cell-Cell attack and transformation in droplets
 
 ### March 22 2017
 
@@ -13,14 +13,28 @@ One volume of cells is made into and emulsion with the device and compared to a 
 
 Thaw Stock cells @ 0C. Stock: box Morrison 2017. Dilute for growth in CDM + 1% CAT 12mL/tube.
 
-Grow to OD of 0.2 and chill.
+| For 12 mL growth tubes: | OD         |
+|-------------------------|------------|
+| *Resuspend Volume (mL)  | 0.75       |
+| *Desired OD in Reaction | 1          |
+| Cell mix                | 2          |
+| Each Srain resuspended  | 4          |
+| ***Grow to***           | ***0.25*** |
 
-| cells | Cp2204 | CP2215 |
-|-------|--------|--------|
-| vol   | 200 uL | 15 uL  |
-| _____ | 37C    | 37C    |
+| strains:       | Cp2204 | CP2215 |
+|----------------|--------|--------|
+| volume seeded: | 200 uL | 15 uL  |
+| 9:40           | 37C    | 37C    |
+| 9:40           | 0.021  | 0      |
+| 10:20          | 0.036  | 0.01   |
+|                |        |        |
+|                |        |        |
+|                |        |        |
 
-<img src="growth-curves.png" width="600" />
+
+[//]: # ( <img src="growth-curves.png" width="600" /> )
+
+[//]: # ( This is a comment )
 
 ### Attack Reaction
 
@@ -72,7 +86,7 @@ Produce 700 uL of double strength inducer in M9 and pull 500 uL into a syringe:
 | MgSO4 mL       | 2       | 0.02     |
 | **CaCl2 uL**       | 100     | 1*       |
 
-**10 uL can be added from the diluted inducer stock*
+**10 uL can be added from the diluted inducer stock rather than 1 ul from standard stock*
 
 **Reaction Scheme:**
 
@@ -81,12 +95,13 @@ When cells combine with inducer in droplet device they will be diluted to OD of 
 The remaining cell mix and inducer was kept in the cold room to be combined as a control.
 After the device chamber is full of emulsion the heated stage is turned to 37C, and the control cells are placed in a heated block.
 
-*reaction started at:*
+*The entire chamber is not full of droplets. The generator failed about half-way through. A long 'string' of fouled area formed causing jetting rather then nice droplet formation. Flow rate of 50 ul/h was used for oil and 10 uL/h for the aqueous.*
+
+*reaction started at: 3:20*
 
 **Emlusion Breaking**
 
-
-Emulsion is flowed from the device after 30 min into a reaction tube.
+Emulsion is flowed from the device after 30 min into a centrifuge tube.
 Both reaction tubes were taken out and placed at room temperature while emulsion breaking was preformed.
 
 1. Starting with emlusion add 200 uL CAT
@@ -121,6 +136,8 @@ extracted suspension is brought up to 400 uL = 10^-2, (Incubation concentration)
 
 
 **Plates are filled with:**
+
+24-well plates used:
 
 1. 150 uL CAT agar
 2. 75 uL cells + 75 uL agar
