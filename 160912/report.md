@@ -1,9 +1,9 @@
-#Cell-Cell attack and Gene Transfer
-##Testing Transformation in M9 with Controls
+# Cell-Cell attack and Gene Transfer
+## Testing Transformation in M9 with Controls
 
-###Sep 12 2016
+### Sep 12 2016
 
-###Cell cultures
+### Cell cultures
 
 **Attacker: CP2204** Rif-r Nov-s Sp-s. Stock 4/15/16. OD 0.2 BoxMorrison2016#1-20.
 
@@ -25,7 +25,7 @@ Grow to OD = 0.3 and chill to 0C for use.
 
 [comment]: <> (<img src="growth-curves.png" width="600" />)
 
-###Attack Reaction
+### Attack Reaction
 
 **Cell Prep:**
 
@@ -120,7 +120,7 @@ Plates are filled with:
 | RS   | 15           | 55 mL       | 111 uL | -     | 88 uL |
 | RNS  | 15           | 55 mL       | 111 uL | 55 uL | 88 uL |
 
-###Results
+### Results
 
 **Cell Counts Cells/mL**
 
