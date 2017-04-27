@@ -160,14 +160,54 @@ extracted suspension is brought up to 400 uL = 10^-2, (Incubation concentration)
 
 ### Results
 
+
 **Cell Counts Cells/mL**
 
+| RX      | Dilution | Colonies/ | squares | squares/plate(MAG) | colonies/plate | Drug | Cells/ml | Ave      |
+|---------|----------|-----------|---------|--------------------|----------------|------|----------|----------|
+| 1       | 1.00E-05 |           |         |                    | 0              | S    | 0.00E+00 |          |
+| 1       | 1.00E-05 |           |         |                    | 0              | S    | 0.00E+00 | 0.00E+00 |
+| 1       | 1.00E-05 |           |         |                    | 0              | S    | 0.00E+00 |          |
+| 1       | 1.00E-05 |           |         |                    | 1              | R    | 1.33E+06 |          |
+| 1       | 1.00E-05 |           |         |                    | 0              | R    | 0.00E+00 | 4.44E+05 |
+| 1       | 1.00E-05 |           |         |                    | 0              | R    | 0.00E+00 |          |
+| 1       | 1.00E-03 |           |         |                    | 0              | RN   | 0.00E+00 |          |
+| 1       | 1.00E-03 |           |         |                    | 0              | RN   | 0.00E+00 | 0.00E+00 |
+| 1       | 1.00E-03 |           |         |                    | 0              | RN   | 0.00E+00 |          |
+| 1       | 1.00E-03 |           |         |                    | 0              | RS   | 0.00E+00 |          |
+| 1       | 1.00E-03 |           |         |                    | 0              | RS   | 0.00E+00 | 0.00E+00 |
+| 1       | 1.00E-03 |           |         |                    | 0              | RS   | 0.00E+00 |          |
+| 1       | 1.00E-02 |           |         |                    | 0              | RNS  | 0.00E+00 |          |
+| 1       | 1.00E-02 |           |         |                    | 0              | RNS  | 0.00E+00 | 0.00E+00 |
+| 1       | 1.00E-02 |           |         |                    | 0              | RNS  | 0.00E+00 |          |
+|         |          |           |         |                    |                |      |          |          |
+| control | Dilution | Colonies/ | squares | squares/plate(MAG) | colonies/plate | Drug | Cells/ml | Ave      |
+| 2       | 1.00E-05 |           |         |                    | 2              | S    | 2.67E+06 |          |
+| 2       | 1.00E-05 |           |         |                    | 0              | S    | 0.00E+00 | 2.67E+06 |
+| 2       | 1.00E-05 |           |         |                    | 4              | S    | 5.33E+06 |          |
+| 2       | 1.00E-05 | 15        | 1       | 100                | 1350           | R    | 1.80E+09 |          |
+| 2       | 1.00E-05 | 19        | 1       | 100                | 1710           | R    | 2.28E+09 | 2.48E+09 |
+| 2       | 1.00E-05 | 28        | 1       | 100                | 2520           | R    | 3.36E+09 |          |
+| 2       | 1.00E-03 |           |         |                    | 0              | RN   | 0.00E+00 |          |
+| 2       | 1.00E-03 |           |         |                    | 0              | RN   | 0.00E+00 | 0.00E+00 |
+| 2       | 1.00E-03 |           |         |                    | 0              | RN   | 0.00E+00 |          |
+| 2       | 1.00E-03 |           |         |                    | 0              | RS   | 0.00E+00 |          |
+| 2       | 1.00E-03 |           |         |                    | 0              | RS   | 0.00E+00 | 0.00E+00 |
+| 2       | 1.00E-03 |           |         |                    | 0              | RS   | 0.00E+00 |          |
+| 2       | 1.00E-02 |           |         |                    | 0              | RNS  | 0.00E+00 |          |
+| 2       | 1.00E-02 |           |         |                    | 0              | RNS  | 0.00E+00 | 0.00E+00 |
+| 2       | 1.00E-02 |           |         |                    | 0              | RNS  | 0.00E+00 |          |
 
 **Summary of Results by cell count (cells/mL)**
 
-
+| March 22 OD: 1 | S        | R        | RN       | RS       | RNS      |
+|----------------|----------|----------|----------|----------|----------|
+| droplets       | 0.00E+00 | 4.44E+05 | 0.00E+00 | 0.00E+00 | 0.00E+00 |
+| control        | 2.67E+06 | 2.48E+09 | 0.00E+00 | 0.00E+00 | 0.00E+00 |
 
 ## Discussion and Conclusion
+
+No transformation was observed in droplets or in control. No S resistant cells survived (CP2215) droplets. R resistant counts from droplets were also low.
 
 ## Appendix:
 
