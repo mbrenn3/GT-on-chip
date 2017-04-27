@@ -1,4 +1,4 @@
-# Cell-Cell attack and Gene Transfer
+# Cell-cell Attack and Gene Transfer
 ## Testing Transformation in M9 with Controls
 
 ### Sep 12 2016
