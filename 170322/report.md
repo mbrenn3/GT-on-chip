@@ -102,7 +102,7 @@ After the device chamber is full of emulsion the heated stage is turned to 37C, 
 **Emlusion Breaking**
 
 Emulsion is flowed from the device after 30 min into a centrifuge tube.
-Both reaction tubes were taken out and placed at room temperature while emulsion breaking was preformed.
+Both reaction tubes were taken out and placed at room temperature while emulsion breaking was performed.
 
 1. Starting with emlusion add 200 uL CAT
 
