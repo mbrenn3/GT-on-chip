@@ -1,4 +1,4 @@
-# Cell-Cell attack and transformation in droplets
+# Cell-cell Attack and Transformation in Droplets
 
 ### March 22 2017
 
